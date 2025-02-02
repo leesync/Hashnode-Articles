@@ -278,6 +278,6 @@ Whether you’re building an e-commerce platform, a social media app, or a real-
 
 Share your experiences and subscribe to Sync Nimbus to join the conversation on intelligent web architectures!”
 
-Start architecting today with AI and share your project. Like this post? Discover more intelligent web architectures by subscribing to the newsletter: [Sync Nimbus - Architects Assemble](https://syncnimbus.substack.com/)
+Start architecting today with AI and share your project. Like this post? Discover more intelligent web architectures by subscribing to the newsletter: [Sync Nimbus - Architects Assemble](https://architectsassemble.substack.com)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734972126227/8753f8fc-2676-42d9-9141-a0cb8c45b1c0.png align="center")
