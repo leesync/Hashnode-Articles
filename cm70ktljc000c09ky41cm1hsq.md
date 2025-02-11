@@ -1,6 +1,6 @@
 ---
-title: "What Makes A Solutions Architect Successful"
-seoTitle: "The Solutions Architect's Tools. "
+title: "What Makes A Solutions Architect Successful?"
+seoTitle: "The Solutions Architect's Tools."
 seoDescription: "The tools required for solutions architects"
 datePublished: Tue Feb 11 2025 14:27:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm70ktljc000c09ky41cm1hsq
