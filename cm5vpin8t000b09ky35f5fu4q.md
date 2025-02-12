@@ -387,7 +387,7 @@ Field-Level Encryption is a powerful solution for securing payment workflows at 
 
 Is this guide helpful for implementing FLE in your payment system?
 
-Explore AWS CloudFront Field-Level Encryption today and fortify your payment processing workflows. For more insights, subscribe [Sync Nimbus](https://syncnimbus.substack.com) and never miss an update on cutting-edge cloud solutions.
+Explore AWS CloudFront Field-Level Encryption today and fortify your payment processing workflows. For more insights, subscribe [Sync Nimbus](https://substack.com/@architectsassemble) and never miss an update on cutting-edge cloud solutions.
 
 **What’s Your Next Move?**
 
