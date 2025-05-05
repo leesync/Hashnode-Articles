@@ -1,7 +1,7 @@
 ---
 title: "How to Solve and Make Decisions When Designing AWS Architectures"
 seoTitle: "Decision-Making as a Solutions Architect in AWS"
-seoDescription: "Solutions Architecture and how to make decisions with AWS technologies. A guide to how to make decisions on workloads. "
+seoDescription: "Solutions Architecture and how to make decisions with AWS technologies. A guide to how to make decisions on workloads."
 datePublished: Thu Feb 20 2025 12:46:21 GMT+0000 (Coordinated Universal Time)
 cuid: cm7dc5zhz001609lbaa2nckle
 slug: how-to-solve-and-make-decisions-when-designing-aws-architectures
