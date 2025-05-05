@@ -1,7 +1,7 @@
 ---
 title: "The Startup Guide to Zero Trust: Securing Your Business Without Breaking the Bank."
 seoTitle: "Zero Trust Security for Startups cloud consulting"
-seoDescription: "Discover how startups can implement Zero Trust Architecture (ZTA) on a budget. Learn practical strategies, affordable tools, and actionable steps to secure "
+seoDescription: "Discover how startups can implement Zero Trust Architecture (ZTA) on a budget. Learn practical strategies, affordable tools, and actionable steps to secure"
 datePublished: Tue Jan 21 2025 11:00:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm66d5xpk00040al7fy32cp0z
 slug: the-startup-guide-to-zero-trust-securing-your-business-without-breaking-the-bank
