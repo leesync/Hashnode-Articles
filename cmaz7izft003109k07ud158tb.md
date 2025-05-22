@@ -5,6 +5,7 @@ seoDescription: "Comparison of Microservice versus Serverless - an ultimate guid
 datePublished: Thu May 22 2025 10:06:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmaz7izft003109k07ud158tb
 slug: serverless-vs-microservices-the-ultimate-architecture-decision-guide-for-fintech
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747909221932/cf333d77-d8a6-4529-bbb3-4a498d774635.png
 tags: microservices, guide, serverless, fintech
 
 ---
