@@ -202,13 +202,12 @@ exports.handler = async (event) => {
 
 * * **Cost Predictability**: Statistical modelling for high-volume transaction scenarios
         
-    * **Architectural Learning Curve**: Team capability assessment for financial domain knowledge
-        
-    * **Compliance Documentation**: Architectural documentation requirements for financial regulators
-        
-    * **Third-Party Risk Management**: Vendor assessment frameworks for financial service providers
-        
-    
+        * **Architectural Learning Curve**: Team capability assessment for financial domain knowledge
+            
+        * **Compliance Documentation**: Architectural documentation requirements for financial regulators
+            
+        * **Third-Party Risk Management**: Vendor assessment frameworks for financial service providers
+            
 
 > 💡 **Pro Tip**: When starting with serverless, begin with non-critical, stateless workloads that have variable traffic patterns to maximise the benefits while minimising risks.
 
@@ -543,7 +542,7 @@ Calculating serverless ROI requires considering:
     
 3. **Operational Overhead Reduction**: 40-70% less DevOps effort for infrastructure maintenance
     
-4. **Scaling Cost Efficiency**: Auto-scaling eliminates overprovisioning costs
+4. **Scaling Cost Efficiency**: Auto-scaling eliminates over provisioning costs
     
 5. **Initial Migration Costs**: Time and resources required to adapt existing systems
     
