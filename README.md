@@ -1,2 +1,2 @@
 # AWS Cloud Articles
-Hashnode Blog Posts
+Learn how to navigate through the cloud with articles on cloud architecture.
