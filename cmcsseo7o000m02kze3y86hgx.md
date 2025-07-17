@@ -5,7 +5,6 @@ seoDescription: "A full-stack blueprint for fintech CTOs & CEOs (UK-centric, glo
 datePublished: Mon Jul 07 2025 07:36:04 GMT+0000 (Coordinated Universal Time)
 cuid: cmcsseo7o000m02kze3y86hgx
 slug: next-gen-payments-stack-on-aws
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751873644813/307ef392-d4fd-42eb-bd78-8e8a00f51061.png
 tags: aws, fintech
 
 ---
@@ -120,21 +119,18 @@ Pro-tip: automate controls—Config rules that *auto-quarantine* any S3 bucket t
         
     * Enable GuardDuty + Config for instant security findings.
         
-    
 2. **Quick Wins**
     
     * Shift APIs behind API Gateway + WAF, enforce mTLS.
         
     * Tokenisation microservice in Nitro Enclave → shrink PCI audit scope.
         
-    
 3. **Mid-Term (3–6 months)**
     
     * Break monolith into event-driven microservices (EventBridge + Step Functions).
         
     * Stand up cross-region read replica for ledger DB; rehearse fail-over.
         
-    
 4. **Strategic (6–12 months)**
     
     * Automate compliance: infra-as-code, Config rules, chaos testing in CI.
@@ -144,7 +140,7 @@ Pro-tip: automate controls—Config rules that *auto-quarantine* any S3 bucket t
     * Launch developer portal & sandbox for A2A / embedded-finance partners.
         
 
-### **In Summary**
+### **Our Perspective**
 
 The payments race is now a **cloud architecture contest**. CTOs and CEOs who invest in a modular, event-driven, PCI-tight stack on AWS will unlock three super-powers:
 
