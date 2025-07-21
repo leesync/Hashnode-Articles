@@ -1,10 +1,11 @@
 ---
-title: "Why Designing Fintech Payments Infrastructure is Challenging"
+title: "AWS Infrastructure Blueprint to Building Payments"
 seoTitle: "AWS Architecture BluePrint For UK Faster Payments"
 seoDescription: "Building Tomorrow's Financial Systems and the Challenges. The AWS Architecture Fintech Payments can be used as starting guide to solve Fntech Compliance."
 datePublished: Mon Jul 21 2025 08:41:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmdcuxam2000c02k16uqv6zb2
-slug: why-designing-fintech-payments-infrastructure-is-challenging
+slug: aws-infrastructure-blueprint-to-building-payments
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753087596402/b36778f7-2e87-4bb0-9ee3-42a3d929a586.png
 tags: aws, architecture, fintech, payments
 
 ---
@@ -125,9 +126,9 @@ But if you’re thoughtful and strategic you can build infrastructure that’s n
 
 We’re building and open-sourcing blueprints to make that possible.Start here:
 
-[💻 Real-Time UK Faster Payments on AWS – GitHub Blueprint →](https://github.com/syncyourcloud/aws-payment-infrastructure-blueprint)
+[Real-Time UK Faster Payments on AWS – GitHub Blueprint →](https://github.com/syncyourcloud/aws-payment-infrastructure-blueprint)
 
-📖 And follow the series: [Building Tomorrow's Financial Systems](https://architectsassemble.substack.com/p/building-real-time-payments-uk-fast)
+And follow the series: [Building Tomorrow's Financial Systems](https://architectsassemble.substack.com/p/building-real-time-payments-uk-fast)
 
 ### **Join Our Exclusive CEO Cloud Strategy Partnership**
 
