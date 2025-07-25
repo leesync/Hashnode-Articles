@@ -1,12 +1,12 @@
 ---
 title: "AWS Infrastructure Blueprint to Building Payments"
-seoTitle: "AWS Architecture BluePrint For UK Faster Payments"
-seoDescription: "Building Tomorrow's Financial Systems and the Challenges. The AWS Architecture Fintech Payments can be used as starting guide to solve Fntech Compliance."
+seoTitle: "AWS Architecture BluePrint For UK Faster Payments - Real-time payments"
+seoDescription: "AWS infrastructure blueprint payments UK, UK FPS payments on AWS, payments architecture, real‑time payments AWS, ISO 20022 payments AWS, AWS payment infrast"
 datePublished: Mon Jul 21 2025 08:41:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmdcuxam2000c02k16uqv6zb2
 slug: aws-infrastructure-blueprint-to-building-payments
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753087596402/b36778f7-2e87-4bb0-9ee3-42a3d929a586.png
-tags: aws, architecture, fintech, payments
+tags: aws, architecture, fintech, payments, aws-architecture
 
 ---
 
