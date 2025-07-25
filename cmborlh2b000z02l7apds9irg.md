@@ -6,7 +6,7 @@ datePublished: Mon Jun 09 2025 07:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cmborlh2b000z02l7apds9irg
 slug: architecting-ai-agent-based-payment-infrastructure-with-aws-bedrock
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749453651660/8cf8d0d4-19af-4f51-ba74-07b95b5709ed.png
-tags: aws
+tags: cloud, aws, github, architecture, fintech-startups
 
 ---
 
@@ -324,6 +324,10 @@ Monitor these KPIs to measure success:
     
 * Stay current with new Bedrock features
     
+
+You can grab the AWS Architecture Blueprint here if you are building for UK Faster Payments. [Open Source Gitub Repo](https://github.com/syncyourcloud/aws-payment-infrastructure-blueprint)
+
+[AWS Architecture to building payments UKFPS](https://blog.syncyourcloud.io/aws-infrastructure-blueprint-to-building-payments)
 
 ## The Future is Autonomous
 
