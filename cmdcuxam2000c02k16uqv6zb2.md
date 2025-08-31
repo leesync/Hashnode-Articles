@@ -5,6 +5,7 @@ seoDescription: "AWS infrastructure blueprint payments UK, UK FPS payments on AW
 datePublished: Mon Jul 21 2025 08:41:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmdcuxam2000c02k16uqv6zb2
 slug: aws-infrastructure-blueprint-to-building-payments
+canonical: https://architectsassemble.substack.com/p/designing-the-uk-faster-payments
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753087596402/b36778f7-2e87-4bb0-9ee3-42a3d929a586.png
 tags: aws, architecture, fintech, payments, aws-architecture
 
