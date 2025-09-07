@@ -1,4 +1,4 @@
-# Fintech Faster Payments on AWS
+#Payments on AWS
 
 Practical guides, reference architecture, and deployable examples for building **real-time payments systems** (UK Faster Payments / SEPA-like) on AWS. Focus: reliability, low latency, auditability, compliance, and secure AI decisioning.
 
@@ -6,7 +6,7 @@ Practical guides, reference architecture, and deployable examples for building *
 
 ## About
 
-This repo collects architecture diagrams, and reference code for engineers and architects building faster-payments platforms on AWS. Content is written for technical decision-makers: CTOs, platform engineers, SREs, and payment product owners.
+This repo collects architecture diagrams, and reference code for engineers and architects building platforms on AWS. Content is written for technical decision-makers: CTOs, platform engineers, SREs, and payment product owners.
 
 
 
