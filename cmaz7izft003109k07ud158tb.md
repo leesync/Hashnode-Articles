@@ -1,5 +1,5 @@
 ---
-title: "Serverless vs. Microservices: The Ultimate Architecture Decision Guide For Fintech"
+title: "The Ultimate Architecture Decision Guide For Fintech"
 seoTitle: "Serverless Versus Microservices - The Ultimate Guide fro Fintech"
 seoDescription: "Comparison of Microservice versus Serverless - an ultimate guide for CTOs and CEOs in Fintech. Guidance from a Solutions Architect"
 datePublished: Thu May 22 2025 10:06:32 GMT+0000 (Coordinated Universal Time)
