@@ -202,12 +202,12 @@ exports.handler = async (event) => {
 
 * * **Cost Predictability**: Statistical modelling for high-volume transaction scenarios
         
-        * **Architectural Learning Curve**: Team capability assessment for financial domain knowledge
-            
-        * **Compliance Documentation**: Architectural documentation requirements for financial regulators
-            
-        * **Third-Party Risk Management**: Vendor assessment frameworks for financial service providers
-            
+        \* **Architectural Learning Curve**: Team capability assessment for financial domain knowledge
+        
+        \* **Compliance Documentation**: Architectural documentation requirements for financial regulators
+        
+        \* **Third-Party Risk Management**: Vendor assessment frameworks for financial service providers
+        
 
 > 💡 **Pro Tip**: When starting with serverless, begin with non-critical, stateless workloads that have variable traffic patterns to maximise the benefits while minimising risks.
 
@@ -781,25 +781,15 @@ Remember, the best architecture is one that enables your business to deliver val
 
 Most cloud architects and CTOs are drowning in technical documentation but starving for strategic frameworks. They're making million-dollar decisions with incomplete information, rushed timelines, and pressure from all sides.
 
-### Join the Waiting List for the Sync Your Cloud Membership….
+### [**Build with Architects Assemble →**](https://architectsassemble.substack.com/)
 
-You will receive exclusivity, which includes the following:
+Learn to build systems that scale gracefully, fail safely, and deliver measurable business value. Because the future belongs to architects who can bridge technical excellence with business reality.
 
-#### Exclusive System 2 Cloud Strategy Tools
+### **Join Our Exclusive CEO Cloud Membership**
 
-#### Monthly Deep-Dive Strategy Sessions
+Ready to take your organisation's cloud strategy to the next level? Join our invitation-only CEO Cloud Strategy Membership. Members receive quarterly strategic briefings, access to our proprietary cloud optimisation frameworks, and priority consulting.
 
-* Expert-led workshops on fintech-specific cloud architecture
-    
-* AMA to solve your specific cloud challenges
-    
-
-#### Early Access to Research
-
-* Exclusive fintech cloud intelligence reports
-    
-* Contribute to our anonymised industry research
-    
+Our premium membership waiting list is now open for Q4 2025. [**Request an invitation today**](https://www.syncyourcloud.io/) to secure your organisation's place at the forefront of fintech cloud innovation.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747823917154/652801ce-a549-460a-9a6d-acacf219cf63.png align="left")
 
