@@ -1,7 +1,7 @@
 ---
-title: "Aligning Payment Architecture with Business Outcomes for Cloud Success""
-seoTitle: "Align Payment Architecture with Business Outcomes "
-seoDescription: "Align your payment architecture with measurable business outcomes to close the execution gap. Learn how to connect technical delivery and business value "
+title: "Aligning Payment Architecture with Business Outcomes for Cloud Success"
+seoTitle: "Align Payment Architecture with Business Outcomes"
+seoDescription: "Align your payment architecture with measurable business outcomes to close the execution gap. Learn how to connect technical delivery and business value"
 datePublished: Sat Sep 20 2025 18:37:52 GMT+0000 (Coordinated Universal Time)
 cuid: cmfsm2mg2000002jr2b2u5bxk
 slug: aligning-payment-architecture-with-business-outcomes-for-cloud-success
