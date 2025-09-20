@@ -10,8 +10,6 @@ tags: business, cloud-computing, system-design
 
 ---
 
-*How a payment architecture exposes the gap between technical delivery and business outcomes*
-
 When your payment system processes transactions flawlessly but business metrics worsen, you've encountered the execution gap. This isn't a failure of AWS services or architectural patterns it's the systematic disconnect between what we build and what the business actually needs.
 
 Every component in the architecture serves a technical purpose. But without explicit business outcome mapping, it becomes an expensive solution to the wrong problem.
