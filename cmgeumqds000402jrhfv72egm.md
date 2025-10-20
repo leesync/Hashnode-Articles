@@ -20,7 +20,7 @@ The solution? Amazon Bedrock and Bedrock AgentCore.
 
 ## The Enterprise AI Deployment Challenge
 
-Here's what should know:
+Here's what you should know:
 
 **The Infrastructure Problem**: Building and maintaining GPU clusters is expensive and complex. Model hosting, versioning, and scaling require specialised expertise most teams don't have.
 
