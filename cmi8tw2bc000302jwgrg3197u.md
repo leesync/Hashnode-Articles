@@ -1,7 +1,7 @@
 ---
 title: "Cloud Waste in Ecommerce: A CTO's Playbook for Recovering 20–30% of Cloud Spend Without Slowing Growth"
 seoTitle: "Discover how ecommerce CTOs can identify and eliminate cloud waste"
-seoDescription: "Cut cloud costs and save money by stopping idle resources and make cloud work smarter for you. Optimise cloud with these tips. "
+seoDescription: "Cut cloud costs and save money by stopping idle resources and make cloud work smarter for you. Optimise cloud with these tips."
 datePublished: Fri Nov 21 2025 12:20:26 GMT+0000 (Coordinated Universal Time)
 cuid: cmi8tw2bc000302jwgrg3197u
 slug: cloud-waste-in-ecommerce-a-ctos-playbook-for-recovering-2030-of-cloud-spend-without-slowing-growth
