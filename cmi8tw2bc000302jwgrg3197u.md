@@ -5,7 +5,7 @@ seoDescription: "Cut cloud costs and save money by stopping idle resources and m
 datePublished: Fri Nov 21 2025 12:20:26 GMT+0000 (Coordinated Universal Time)
 cuid: cmi8tw2bc000302jwgrg3197u
 slug: cloud-waste-in-ecommerce-a-ctos-playbook-for-recovering-2030-of-cloud-spend-without-slowing-growth
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763727424745/ff7d1076-07e2-4965-b876-ab73d0419261.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UHqfUTDmdC4/upload/6ad179d09952923870edbd4efc932644.jpeg
 tags: cloud-computing
 
 ---
