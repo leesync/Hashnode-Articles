@@ -5,7 +5,7 @@ seoDescription: "Discover how a Cloud & AI Audit can uncover hidden risks, overs
 datePublished: Thu Dec 11 2025 12:17:40 GMT+0000 (Coordinated Universal Time)
 cuid: cmj1eljaq000d02jr8hyeeazx
 slug: cloud-and-ai-audits-why-technical-leaders-cant-afford-to-skip-this
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765454969697/aaab004b-6610-43ad-a73b-5164e34c0d80.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SmCQq-X0O_4/upload/00848cf42c9ede33c7be15663f3f1910.jpeg
 tags: security, saas, engineering, engineering-management
 
 ---
