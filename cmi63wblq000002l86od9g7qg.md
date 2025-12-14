@@ -1,6 +1,6 @@
 ---
 title: "Architecture Drift: A CTO's Guide to Managing Technical Reality"
-seoTitle: "Architecture Drift - The CTO’s Guide to Containing Cloud Complexity "
+seoTitle: "Architecture Drift - The CTO’s Guide to Containing Cloud Complexity"
 seoDescription: "Discover how architecture drift silently derails roadmap delivery, increases risk, and inflates costs then learn proven strategies CTOs use."
 datePublished: Wed Nov 19 2025 14:37:16 GMT+0000 (Coordinated Universal Time)
 cuid: cmi63wblq000002l86od9g7qg
@@ -164,7 +164,9 @@ When these patterns become normal, drift is actively shaping your delivery capac
 
 ## Three Levers for Managing Drift
 
-You cannot inspect every change. Your leverage comes from shaping the environment that shapes decisions.
+You cannot inspect every change. Your leverage comes from shaping the environment that shapes decisions. Before we explore the levers below, you can further explore [What’s wrong with your architecture?](https://open.substack.com/pub/architectsassemble/p/the-architecture-review-whats-wrong?utm_campaign=post-expanded-share&utm_medium=web) to understand how to fix the common issues by discovering what 12 lessons taught us about **Architectural Risk.**
+
+Over the past months, we've deconstructed how to architect resilient payment platforms through 12 detailed parts of ***"Building Tomorrow's Financial Systems."*** Through that journey, we helped architect’s develop an architect's mindset that apply far beyond payments. You will also find the thought process behind architecting complex systems, which in turn will help you architect systems for the future.
 
 ### Lever 1: Architecture Guardrails
 
