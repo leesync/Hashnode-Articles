@@ -1,10 +1,11 @@
 ---
 title: "Why Manual Oversight Is Costing You Millions"
-seoTitle: "Stop Wasting £200K+ Yearly: Automate AWS Multi-Account Management "
-seoDescription: "Drowning in 50+ AWS accounts? Manual management costs £200K-600K in toil yearly, misses security gaps, and kills optimisation. "
+seoTitle: "Stop Wasting £200K+ Yearly: Automate AWS Multi-Account Management"
+seoDescription: "Drowning in 50+ AWS accounts? Manual management costs £200K-600K in toil yearly, misses security gaps, and kills optimisation."
 datePublished: Tue Dec 16 2025 08:53:19 GMT+0000 (Coordinated Universal Time)
 cuid: cmj8ci0mg000202kw3dvr3zno
 slug: why-manual-oversight-is-costing-you-millions
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/q10VITrVYUM/upload/9e923695ea0ac36e9762f59fc959e6f0.jpeg
 tags: ai, aws, business, cloud-computing, cost-optimisation
 
 ---
