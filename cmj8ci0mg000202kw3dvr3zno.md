@@ -254,4 +254,4 @@ The alternative is continuing to scale manual processes that fundamentally don't
 
 For organisations running 30+ AWS accounts or rapidly scaling beyond that threshold, automated multi-account management isn't a luxury. It's infrastructure that should have been implemented months ago. The only question is whether you implement it before the next incident or after.
 
-**Take a** [**free assessment**](https://www.syncyourcloud.io/) **of your multi-account infrastructure to discover where automation could deliver immediate value. See exactly where manual processes are creating risk, consuming resources, and limiting your ability to scale.**
+**Take a** [**free assessment**](https://www.syncyourcloud.io/) **of your multi-account infrastructure to discover where automation could deliver immediate value. See exactly where manual processes are creating risk, consuming resources, and limiting your ability to scale. Alternatively, check your cloud spend with our** [AWS OpEx Loss Index Calculator](https://www.syncyourcloud.io/) to discover where you need to make improvements.
