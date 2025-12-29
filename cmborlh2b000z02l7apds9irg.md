@@ -10,8 +10,6 @@ tags: cloud, aws, github, architecture, fintech-startups
 
 ---
 
-You will be familiar with this.
-
 Your payment system processes thousands of transactions per second, each one requiring fraud checks, compliance validation, and optimal routing decisions.
 
 Cloud-native fintechs are growing **three times faster** than traditional banks, but this rapid expansion brings unprecedented complexity.
