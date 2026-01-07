@@ -1,9 +1,10 @@
 ---
-title: "SaaS Scaling: Streamlining Governance Across Multiple AWS Accounts with Automated SCP Management"
+title: "AWS SCP FullAWSAccess Without Account Attachment: The $200k Governance Gap"
 seoTitle: "SaaS Scaling - Automate Governance wIth AWS Service Control Policies"
+seoDescription: "AWS FullAWSAccess SCP inheritance without explicit attachment creates costly governance gaps. Learn why this affects 80% of multi-account setups + free tool"
 datePublished: Tue Dec 10 2024 08:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm4i698nm000509iagsiw7kof
-slug: saas-scaling-streamlining-governance-across-multiple-aws-accounts-with-automated-scp-management
+slug: aws-scp-fullawsaccess-without-account-attachment-the-200k-governance-gap
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733656861637/b7c95ef7-2526-4ab2-a24c-d10a06b1388d.png
 
 ---
