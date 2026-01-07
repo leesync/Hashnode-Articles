@@ -5,7 +5,6 @@ datePublished: Tue Dec 10 2024 08:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm4i698nm000509iagsiw7kof
 slug: saas-scaling-streamlining-governance-across-multiple-aws-accounts-with-automated-scp-management
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733656861637/b7c95ef7-2526-4ab2-a24c-d10a06b1388d.png
-tags: aws, saas, saas-development
 
 ---
 
