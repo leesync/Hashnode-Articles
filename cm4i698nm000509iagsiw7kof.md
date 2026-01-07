@@ -1,5 +1,5 @@
 ---
-title: "AWS SCP FullAWSAccess Without Account Attachment: The $200k Governance Gap"
+title: "AWS SCP FullAWSAccess Without Account Attachment: The £200k Governance Gap"
 seoTitle: "SaaS Scaling - Automate Governance wIth AWS Service Control Policies"
 seoDescription: "AWS FullAWSAccess SCP inheritance without explicit attachment creates costly governance gaps. Learn why this affects 80% of multi-account setups + free tool"
 datePublished: Tue Dec 10 2024 08:00:39 GMT+0000 (Coordinated Universal Time)
