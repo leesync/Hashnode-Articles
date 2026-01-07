@@ -132,6 +132,14 @@ Policies can be as simple as "all S3 buckets must have encryption enabled" or as
 
 When resources violate policies, automated systems can take action immediately. Low-risk violations might trigger automatic remediation applying encryption to an unencrypted bucket. Higher-risk violations trigger alerts for human review and remediation. Critical violations might automatically stop non-compliant resources.
 
+**Critical: The FullAWSAccess SCP Trap**
+
+Most teams implement multi-account but miss a critical SCP configuration that costs $15k-50k monthly in governance overhead.
+
+Learn what it is and how to avoid it →\] [“Automating Governance: The Key to Simplifying Multi-Account AWS Management for SaaS Success” + Free Tool](https://blog.syncyourcloud.io/aws-scp-fullawsaccess-without-account-attachment-the-200k-governance-gap)
+
+Or [use our free assessment](https://www.syncyourcloud.io) to see if your setup has this configuration gap.
+
 ### Centralised Cost Analytics
 
 Cost data aggregates automatically across all accounts. Shared services costs are allocated according to usage patterns or configured rules. Tagging is enforced, making cost attribution automatic and accurate.
