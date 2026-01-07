@@ -5,13 +5,48 @@ seoDescription: "AWS FullAWSAccess SCP inheritance without explicit attachment c
 datePublished: Tue Dec 10 2024 08:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm4i698nm000509iagsiw7kof
 slug: aws-scp-fullawsaccess-without-account-attachment-the-200k-governance-gap
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733656861637/b7c95ef7-2526-4ab2-a24c-d10a06b1388d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mG28olYFgHI/upload/82b768d644f2d72f6bdca5d7f325b803.jpeg
+tags: aws, business, cloud-computing
 
 ---
 
-Hi Hashnode Community,
+**The Problem Every Multi-Account AWS Setup Has (And Nobody Talks About)**
 
-Sharing knowledge is one of the best ways to grow together, and this week I’m excited to explore a critical topic for SaaS businesses: **streamlining AWS account management to scale effectively while reducing complexity.**
+AWS Organisations automatically attaches the FullAWSAccess Service Control Policy to every root, OU, and account when you create them. Most cloud architects assume this means permissions flow down automatically.
+
+They don't.
+
+Without explicit SCP attachment at each organisational level, you create an inheritance gap that quietly costs enterprises 15,000-50,000 pounds monthly in governance overhead, over-provisioned permissions, and manual security reviews.
+
+**Here's what's actually happening:**
+
+When FullAWSAccess isn't explicitly attached at the Root → OU → Account level, SCPs use intersection-based evaluation. This means:
+
+* Permissions you think are inherited actually aren't
+    
+* Developers get blocked by "implicit deny" errors
+    
+* Security teams spend 40+ hours monthly debugging SCP conflicts
+    
+* Compliance audits fail because permission boundaries aren't where you think they are
+    
+
+**The Business Impact (Real Numbers)**
+
+Companies with 10+ AWS accounts typically waste:
+
+* £5,000-£15,000 per quarter on manual SCP audits
+    
+* £50,000-£200,000 per security incident from misconfigured permissions
+    
+* £20,000-£100,000 in compliance remediation costs
+    
+* 40-80 engineer hours monthly debugging permission issues
+    
+
+**Want to know your specific cost?** [**Calculate your multi-account governance overhead here →**](https://www.syncyourcloud.io/)
+
+Here's why it happens, how to detect it, and how to fix it permanently.
 
 One innovator that comes to mind with thousands of AWS accounts, powering their microservices and millions of daily transactions is Netflix.
 
@@ -19,7 +54,7 @@ Netflix’s refined approach to cloud management offers many lessons. For one, f
 
 Unlike many organisations that rely on complex Organisational Unit (OU) hierarchies, Netflix keeps its AWS Organisations structure relatively flat, preferring simplicity and automation to manage scalability.
 
-Let’s explore the **key pillars.**
+Let’s explore the **key pillars** but before we do if you are not sure if this affects your setup? Our [free OpEx Loss Calculator](https://www.syncyourcloud.io) analyses your AWS account structure and shows you exactly where governance gaps are costing you money. Takes 2 minutes. \[Calculate your governance waste →[Calculate Your Governance Waste](https://www.syncyourcloud.io)
 
 ### Key Pillars of Netflix’s AWS Account Management
 
@@ -69,6 +104,8 @@ Let’s explore what happens when multiple accounts share the same OU.
 
 By embedding automation into your SCP management and account setup processes, you can eliminate scalability issues, improve governance, and focus on strategic growth.
 
+Seeing permission errors you can't explain? This is the #1 symptom of SCP inheritance problems. [Join our Cloud Membership](https://www.syncyourcloud.io) to identify misconfigured SCPs across your accounts.
+
 ### **SaaS Scaling Rapidly**
 
 • **Why SCPs Matter**:
@@ -96,6 +133,8 @@ Key Challenges without automation and modularity can result in the following:
 ### Slow policy propagation and administration overhead
 
 **Operational Bottlenecks**: A single OU with too many accounts can slow down policy propagation and increase administrative overhead.
+
+**Calculate your specific risk:** Enter your AWS account count and monthly spend. Our calculator shows your estimated annual loss from governance overhead, broken down by category. [Get your number →](https://www.syncyourcloud.io)
 
 ### No Logical Grouping
 
@@ -268,6 +307,8 @@ If a single OU contains accounts with vastly different use cases, it can lead to
 • Group accounts within the OU based on shared requirements.
 
 • If necessary, split accounts into multiple OUs for more precise SCP application.
+
+**Ready to fix your multi-account governance?** Our free assessment includes an AI-generated scorecard of your SCP configuration, plus a business impact analysis showing where you're losing money. Reviewed by an AWS Solutions Architect. [Join Our Membership](https://www.syncyourcloud.io)
 
 ### 6\. Use AWS Control Tower for Governance
 
