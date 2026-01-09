@@ -38,6 +38,8 @@ Amazon Bedrock and AgentCore solve all of these.
 
 Amazon Bedrock is a fully managed service providing unified access to foundation models from leading AI providers through a single API.
 
+If you are not at the scaling stage of your agents you can start with reading: [AI Agent Based Payment Infrastructure with AWS Bedrock](https://blog.syncyourcloud.io/architecting-ai-agent-based-payment-infrastructure-with-aws-bedrock).
+
 Instead of building infrastructure or managing multiple vendor relationships, you get:
 
 **Multiple Foundation Models**:
@@ -246,7 +248,7 @@ Creating content at scale requires coordination between multiple steps. Content 
 
 ## Building Your AI Agent Architecture
 
-Here's your technical blueprint.
+Here's your technical blueprint but if you are already in production you can review your AI architecture and gain insights into where you need to improve the architecture and monitor your system with an [Ai Architecture Assessment.](https://www.syncyourcloud.io)
 
 ### The Technical Stack
 
@@ -545,6 +547,8 @@ Set up dashboards showing these metrics in real-time. Review weekly initially, t
 
 ### Start Small, Think Big
 
+To accelerate your time-to-market explore our [AI Architecture Membership](https://www.syncyourcloud.io) plans to help you progress faster.
+
 **Identify High-Impact Use Cases**:
 
 * Review manual processes consuming significant time
@@ -591,6 +595,8 @@ Set up dashboards showing these metrics in real-time. Review weekly initially, t
 * Document compliance requirements
     
 
+If you need to perform an analysis on your infrastructure and you are using AWS start with the [AI Infrastructure scan](https://www.syncyourcloud.io)
+
 ### Measure and Iterate
 
 **Define Success Criteria**:
@@ -615,6 +621,8 @@ Set up dashboards showing these metrics in real-time. Review weekly initially, t
 * Stay current with new Bedrock features
     
 
+Continuous improvement will help monitor your agents to discover how successful are the outcomes. You can do this with the [AI Architecture Assessment.](https://www.sycnyourcloud.io)
+
 ## The future is already here. Autonomous.
 
 The question isn't whether to adopt AI agents—it's how quickly you can implement them safely and effectively.
@@ -623,7 +631,7 @@ With Amazon Bedrock providing the secure, scalable foundation and AgentCore enab
 
 The organisations that master AI agent deployment today will define the competitive landscape tomorrow.
 
-Ready to get started with AI agents? Check out the [AWS Bedrock documentation](https://docs.aws.amazon.com/bedrock/), explore the [Bedrock AgentCore guide](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html), and review [AWS compliance programs](https://aws.amazon.com/compliance/).
+Ready to get started with AI agents? Check out the [AI Architecture Membership plans](https://www.syncyourcloud.io) and further reading here: [AWS Bedrock documentation](https://docs.aws.amazon.com/bedrock/), explore the [Bedrock AgentCore guide](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html), and review [AWS compliance programs](https://aws.amazon.com/compliance/).
 
 ---
 
@@ -631,4 +639,4 @@ Ready to get started with AI agents? Check out the [AWS Bedrock documentation](h
 
 Ready to take your organisation's cloud strategy to the next level? Join our invitation-only CEO Cloud Strategy Partnership. Members receive quarterly strategic briefings, access to our proprietary cloud optimisation frameworks, and priority consulting with an AWS Certified Architect.
 
-Our premium membership waiting list is now open for Q4 2025. Request an invitation today to secure your organisation's place at the forefront of cloud innovation.
+Our premium membership waiting list is now open for Q2 2026. Request an invitation today to secure your organisation's place at the forefront of cloud innovation.
