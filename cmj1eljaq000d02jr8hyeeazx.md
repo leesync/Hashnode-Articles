@@ -106,6 +106,8 @@ Most organisations overpay for cloud and AI by 20–40%. Not because of bad deci
 
 You can't optimise what you can't measure.
 
+If you need to decide when to redesign your architecture read [when-should-enterprises-redesign-their-cloud-architecture-to-avoid-cost-risk-and-failure](https://blog.syncyourcloud.io/when-should-enterprises-redesign-their-cloud-architecture-to-avoid-cost-risk-and-failure)
+
 ## What a Proper Cloud & AI Audit Actually Covers
 
 This isn't a security scan. It's not a cost report. It's a comprehensive diagnostic across your entire cloud and AI ecosystem.
@@ -208,6 +210,10 @@ This isn't a security scan. It's not a cost report. It's a comprehensive diagnos
     
 
 **What you get:** A roadmap that addresses not just technology gaps, but the process improvements needed to sustain change.
+
+You can get your strategic roadmap by joining one of the [architecture monthly memberships](https://www.syncyourcloud.io/membership)
+
+Read [architecture drift](https://blog.syncyourcloud.io/architecture-drift-a-ctos-guide-to-managing-technical-reality) if you are faced with the challenges of technical reality.
 
 ## The Business Value You'll Actually See
 
@@ -495,4 +501,4 @@ The question isn't whether you need better visibility. It's whether you're going
 
 ---
 
-**Want to discuss how this applies to your specific environment?** The patterns are universal, but the priorities vary by company stage, industry, and technical maturity. Join Our Membership to gain full access to a solutions architect and take our free assessment to get you scorecard and analysis to discover where your cloud waste is and the strength of your security posture.
+**Want to discuss how this applies to your specific environment?** The patterns are universal, but the priorities vary by company stage, industry, and technical maturity. Join Our Membership to gain full access to a [solutions architect and take our free assessment](https://www.syncyourcloud.io/membership) to get you scorecard and analysis to discover where your cloud waste is and the strength of your security posture.
