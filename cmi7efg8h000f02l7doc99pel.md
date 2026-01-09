@@ -1,5 +1,5 @@
 ---
-title: "Why cloud waste stems from architectural choices, not financial mismanagement."
+title: "Why Cloud Waste Stems From Architectural Choices, Not Financial Mismanagement."
 seoTitle: "Cloud Waste Isn’t a Finance Problem — It’s an Architecture"
 seoDescription: "Cloud Waste is a Tech Problem: What Every CTO and Architect Needs to Know"
 datePublished: Thu Nov 20 2025 12:19:50 GMT+0000 (Coordinated Universal Time)
