@@ -1,7 +1,7 @@
 ---
-title: "How Fintech CEOs are Building Tomorrow's Cloud Infrastructure"
-seoTitle: "How Fintech CEOs are building tomorrow's cloud infrastructure"
-seoDescription: "Discover how fintech CEOs are rethinking cloud infrastructure in 2025 from multi-cloud strategy and AI-driven optimisation to zero-trust security and global"
+title: "The £400k Cloud Infrastructure Mistakes Fintech CTOs Make When Scaling"
+seoTitle: "The £400k Cloud Infrastructure Mistakes Fintech CTOs Make When Scaling"
+seoDescription: "Fintech CTOs reveal the costly cloud infrastructure mistakes they made while scaling. Assessment to avoid these £400K mistakes"
 datePublished: Wed Jun 04 2025 13:16:01 GMT+0000 (Coordinated Universal Time)
 cuid: cmbhz0q4s000209jpa4bh973u
 slug: how-fintech-ceos-are-building-tomorrows-cloud-infrastructure
