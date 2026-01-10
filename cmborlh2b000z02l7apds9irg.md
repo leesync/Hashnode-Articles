@@ -142,6 +142,8 @@ Customer disputes are costly and time-consuming. AI agents streamline the entire
 
 ## Building Your AI Agent Architecture
 
+Before we delve into the architecture understanding how to automate governance in AWS will help you build the foundations. Read: [The Key to Simplifying Multi-Account AWS Management for SaaS Success](https://blog.syncyourcloud.io/aws-scp-fullawsaccess-without-account-attachment-the-200k-governance-gap)
+
 Ready to architect your own AI-agent-based payment infrastructure? Here's your technical blueprint.
 
 ### The Technical Stack
@@ -152,7 +154,7 @@ Here's how to architect AI agents using AWS services:
 
 * **Amazon Bedrock** → AI reasoning engine
     
-* **AWS Lambda** → Serverless agent logic
+* **AWS Lambda** → Serverless agent logic. You also need to ensure that you do not waste spend when running processes with Lambda. Read: [Complete Guide to Lambda Waste](https://blog.syncyourcloud.io/how-to-detect-and-eliminate-aws-lambda-waste-a-complete-guide-to-execution-pattern-analysis)
     
 * **Amazon EventBridge** → Real-time event processing
     
@@ -205,6 +207,8 @@ Treat AI agents like critical microservices:
     
 * **End-to-end transaction tracking**
     
+
+You can track and monitor with the [AI engine analysis](https://www.syncyourcloud.io)
 
 ### 2\. Guardrails: Stay Safe
 
