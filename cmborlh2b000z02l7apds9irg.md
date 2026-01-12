@@ -20,7 +20,7 @@ It's not choosing the wrong model. It's not scaling issues. It's not even AWS co
 
 **£300k-£500k in the first year for a mid-sized payment platform.**
 
-**Want to see your specific AI infrastructure cost?** [**Calculate your Bedrock waste here →**](https://www.syncyourcloud.io)
+**Want to see your specific AI infrastructure cost?** [**Calculate your cloud waste here →**](https://www.syncyourcloud.io)
 
 Let me show you the architecture decisions that actually matter, the ones that don't, and how to avoid the most expensive mistakes.Your payment system processes thousands of transactions per second, each one requiring fraud checks, compliance validation, and optimal routing decisions.
 
@@ -42,6 +42,23 @@ An AI agent is an autonomous software entity powered by large language models (L
     
 
 In payment workflows, these agents handle everything from fraud screening to customer service in real-time far beyond what manual processes can achieve.
+
+## The 5 Stages of Deploying Agent-Based Payment Systems
+
+There are 5 critical stages to deploying agent-based payment systems successfully:
+
+1. **Planning & Architecture** (2-4 weeks)
+    
+2. **Development & Integration** (6-12 weeks)
+    
+3. **Testing & Validation** (4-6 weeks)
+    
+4. **Staging & Pre-Production** (2-3 weeks)
+    
+5. **Production Deployment** (1-2 weeks)
+    
+
+Want a complete deployment assessment for your specific system? [Get free evaluation →](https://www.syncyourcloud.io/assessment)
 
 ## Why AWS Bedrock is a Good Fit.
 
