@@ -6,7 +6,7 @@ datePublished: Mon Jun 09 2025 07:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cmborlh2b000z02l7apds9irg
 slug: aws-bedrock-payment-infrastructure-500k-architecture-decision
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749453651660/8cf8d0d4-19af-4f51-ba74-07b95b5709ed.png
-tags: cloud, aws, github, architecture, fintech-startups, agentic-ai
+tags: cloud, aws, github, architecture, fintech-startups, agents, agentic-ai
 
 ---
 
