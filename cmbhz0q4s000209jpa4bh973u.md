@@ -1,12 +1,12 @@
 ---
-title: "The £400k Cloud Infrastructure Mistakes Fintech CTOs Make When Scaling"
-seoTitle: "The £400k Cloud Infrastructure Mistakes Fintech CTOs Make When Scaling"
-seoDescription: "Fintech CTOs reveal the costly cloud infrastructure mistakes they made while scaling. Assessment to avoid these £400K mistakes"
+title: "How Fintech CTOs Build Cloud Infrastructure That Scales to £100M+ ARR"
+seoTitle: "How Fintech CTOs Build Cloud Infrastructure That Scales to £100M+ ARR"
+seoDescription: "Scale to £100M+ ARR.and optimise your cloud infrastructure + cloud assessment and AI analysis for speed to market."
 datePublished: Wed Jun 04 2025 13:16:01 GMT+0000 (Coordinated Universal Time)
 cuid: cmbhz0q4s000209jpa4bh973u
 slug: how-fintech-ceos-are-building-tomorrows-cloud-infrastructure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749042704865/15e7560e-e771-4a5c-9240-5fc5eb93cbc2.png
-tags: fintech
+tags: cloud-computing, fintech
 
 ---
 
