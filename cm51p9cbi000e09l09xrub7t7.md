@@ -277,5 +277,3 @@ A hybrid web architecture that blends serverless, server-based solutions, and AI
 Whether you’re building an e-commerce platform, a social media app, or a real-time analytics tool, this approach ensures your application is not only robust but also forward-thinking. For a business impact analysis and a scorecard of how well your architecture is performing you can take the [cloud assessment](https://www.syncyourcloud.io/assessment) if you are using AWS to adopt AI.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1768395602538/748ac060-ec7c-4188-90ce-212897e9ad4a.png align="center")
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734972126227/8753f8fc-2676-42d9-9141-a0cb8c45b1c0.png align="center")
