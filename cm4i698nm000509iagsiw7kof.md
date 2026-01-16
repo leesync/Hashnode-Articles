@@ -12,6 +12,10 @@ tags: aws, business, cloud-computing
 
 **The Problem Every Multi-Account AWS Setup Has (And Nobody Talks About)**
 
+## **TL;DR**
+
+> In a multi-account AWS setup, many organisations unintentionally create governance gaps due to incorrect assumptions about permission inheritance in Service Control Policies (SCPs). This can result in significant costs in governance overhead, security incidents, and compliance remediation. Companies like Netflix effectively manage thousands of AWS accounts by maintaining a flat organizational structure, automating account and SCP management, and isolating workloads for security and scalability. Key strategies include using Infrastructure as Code (IaC) for SCP deployment, automating compliance monitoring, and leveraging AWS Control Tower for governance. Organizations should adopt modular SCPs, automate policy enforcement, and continuously monitor practices to enhance security and operational efficiency as they scale.
+
 AWS Organisations automatically attaches the FullAWSAccess Service Control Policy to every root, OU, and account when you create them. Most cloud architects assume this means permissions flow down automatically.
 
 They don't.
