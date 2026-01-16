@@ -22,8 +22,8 @@ This playbook gives ecommerce CTOs a 90-day roadmap to:
     
 * Embed cost awareness into product and engineering
     
-* Use tools like SyncYourCloud to automate the boring, error-prone parts
-    
+
+[Calculate your OpEx Loss Index](https://www.syncyourcloud.io/opex-calculator) to see how much cloud spend is wasted.
 
 ## 1\. Why Cloud Waste Is an Ecommerce Margin Problem
 
@@ -264,9 +264,11 @@ Even well-intentioned cloud optimisation efforts can stumble. Here are the most 
 
 **Pitfall 1: Treating it as a one-time project.** Cloud optimisation requires ongoing discipline. Without embedded practices, savings evaporate within 6–12 months as new waste accumulates.
 
-**Solution:** Build FinOps into your regular operating rhythm with monthly reviews, automated guardrails, and clear ownership.
+**Solution:** Build FinOps into your regular operating rhythm with monthly reviews, automated guardrails, and clear ownership. A [cloud assessment](https://www.syncyourcloud.io/assessment) with scorecard results will help you take the right steps if you are using AWS you can start with the cloud assessment which aligns with the well-architected framework. .
 
-**Pitfall 2: Optimising without visibility.** Teams guess at what to fix based on intuition rather than data, often targeting the wrong areas or missing the biggest opportunities.
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1768560627953/e9ba3501-98be-4e09-b139-527bc9e913d7.png align="center")](https://ww.syncyourcloud/assessment)
+
+**Pitfall 2: Optimising without visibility.** Teams guess at what to fix based on intuition rather than data, often targeting the wrong areas or missing the biggest opportunities. Read [enterprise-cloud-visibility-2026-cost-blind-spots](https://blog.syncyourcloud.io/enterprise-cloud-visibility-2026-cost-blind-spots)
 
 **Solution:** Invest in proper tagging and dashboards before executing optimisations. Three weeks of visibility work saves months of misdirected effort.
 
@@ -386,7 +388,13 @@ Build momentum with early wins, and gradually evolve toward a mature FinOps prac
 
 ### How often should ecommerce companies audit their cloud infrastructure for waste?
 
-Ecommerce companies should implement continuous monitoring rather than periodic audits. At minimum, conduct comprehensive reviews monthly during your FinOps guild meetings, with automated daily scans for orphaned resources and anomalies. Major audits should occur quarterly to align with financial planning cycles and after significant events like peak shopping seasons, major feature launches, or infrastructure migrations.
+Ecommerce companies should implement continuous monitoring rather than periodic audits. At minimum, conduct comprehensive reviews monthly during your FinOps guild meetings, with automated daily scans for orphaned resources and anomalies.
+
+Read [cloud-and-ai-audits-why-technical-leaders-cant-afford-to-skip-this](https://blog.syncyourcloud.io/cloud-and-ai-audits-why-technical-leaders-cant-afford-to-skip-this).
+
+Major audits should occur quarterly to align with financial planning cycles and after significant events like peak shopping seasons, major feature launches, or infrastructure migrations.
+
+If you are using AWS and have multiple accounts read [the-multi-account-problem-why-your-aws-infrastructure-is-probably-in-one-account-and-why-thats-costing-you](https://blog.syncyourcloud.io/the-multi-account-problem-why-your-aws-infrastructure-is-probably-in-one-account-and-why-thats-costing-you)
 
 ### How does cloud cost management impact ecommerce scalability?
 
@@ -417,4 +425,4 @@ Beyond the direct financial impact of 20–30% overspend, unaddressed cloud wast
 
 Every dollar you reclaim from cloud waste is a dollar you can invest in better search, faster checkout, smarter recommendations, or expanding into new markets. Make it count.
 
-For further help with cloud optimisations visit: [Optimise cloud with Sync Your Cloud](https://www.syncyourcloud.io)
+For further help with cloud optimisations in AWS start with a [Cloud Assessment](https://www.syncyourcloud.io) and our certified solutions architect can help identify key issues and define a roadmap.
