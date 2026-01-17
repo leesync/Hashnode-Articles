@@ -6,7 +6,6 @@ datePublished: Tue Dec 10 2024 08:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm4i698nm000509iagsiw7kof
 slug: aws-scp-fullawsaccess-without-account-attachment-the-200k-governance-gap
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mG28olYFgHI/upload/82b768d644f2d72f6bdca5d7f325b803.jpeg
-tags: aws, business, cloud-computing
 
 ---
 
