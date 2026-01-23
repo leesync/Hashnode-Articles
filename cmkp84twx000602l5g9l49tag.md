@@ -48,16 +48,6 @@ Critical setting: Use message group IDs based on customer or transaction ID to m
 
 **Cost consideration:** SQS charges per request. At 1M transactions/month with 5 queue operations per transaction, expect around $2.50/month for queuing alone. Not the bottleneck.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 📥 **Download: Agent-Based Payment Infrastructure Checklist**
-
-Building this infrastructure requires coordinating 40+ AWS services across 7 architectural layers. One misconfiguration creates security vulnerabilities or cost overruns.
-
-Get our deployment checklist: ✓ AWS service configuration templates ✓ Security compliance requirements (PCI-DSS, SOC 2) ✓ Cost estimation calculator by transaction volume ✓ Common failure modes and prevention strategies
-
-**\[Download Free Infrastructure Checklist →\]**
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### 2\. Agent Orchestration & Workflow Management
 
 **Why it matters:** A single payment involves 5-7 agent interactions (fraud check → authorisation → settlement → reconciliation → notification). You need orchestration that survives failures and provides visibility into where payments get stuck.
