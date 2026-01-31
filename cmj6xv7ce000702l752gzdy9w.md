@@ -22,6 +22,8 @@ Single-account architecture isn't just messy it's costing you £15k-50k monthly 
 
 Here's why it happens, what it actually costs, and how to fix it without a 6-month migration project."
 
+You can calculate your OpEx Loss Index with the [OpEx Calculator](https://www.syncyourcloud.io/opex-calculator) if you are using AWS Cloud.
+
 ## How You Got Here
 
 The journey to single-account sprawl is predictable and entirely rational at each step.
