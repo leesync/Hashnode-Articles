@@ -1,7 +1,7 @@
 ---
-title: "AWS SCP FullAWSAccess Without Account Attachment: The £200k Governance Gap"
+title: "Service Control Policies: The Inheritance Gap Costing £200k Annually"
 seoTitle: "SaaS Scaling - Automate Governance wIth AWS Service Control Policies"
-seoDescription: "AWS FullAWSAccess SCP inheritance without explicit attachment creates costly governance gaps. Learn why this affects 80% of multi-account setups + free tool"
+seoDescription: "Most teams assume Service Control Policies inherit automatically across AWS accounts. They don't—and this costs £15k-50k monthly in governance overhead."
 datePublished: Tue Dec 10 2024 08:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm4i698nm000509iagsiw7kof
 slug: aws-scp-fullawsaccess-without-account-attachment-the-200k-governance-gap
@@ -13,15 +13,15 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mG28olYFgHI/up
 
 ## **TL;DR**
 
-> In a multi-account AWS setup, many organisations unintentionally create governance gaps due to incorrect assumptions about permission inheritance in Service Control Policies (SCPs). This can result in significant costs in governance overhead, security incidents, and compliance remediation. Companies like Netflix effectively manage thousands of AWS accounts by maintaining a flat organizational structure, automating account and SCP management, and isolating workloads for security and scalability. Key strategies include using Infrastructure as Code (IaC) for SCP deployment, automating compliance monitoring, and leveraging AWS Control Tower for governance. Organizations should adopt modular SCPs, automate policy enforcement, and continuously monitor practices to enhance security and operational efficiency as they scale.
+> In a multi-account AWS setup, many organisations unintentionally create governance gaps due to incorrect assumptions about permission inheritance in Service Control Policies (SCPs). This can result in significant costs in governance overhead, security incidents, and compliance remediation. Companies like Netflix effectively manage thousands of AWS accounts by maintaining a flat organisational structure, automating account and SCP management, and isolating workloads for security and scalability. Key strategies include using Infrastructure as Code (IaC) for SCP deployment, automating compliance monitoring, and leveraging AWS Control Tower for governance. Organisations should adopt modular SCPs, automate policy enforcement, and continuously monitor practices to enhance security and operational efficiency as they scale.
 
-AWS Organisations automatically attaches the FullAWSAccess Service Control Policy to every root, OU, and account when you create them. Most cloud architects assume this means permissions flow down automatically.
+"You have 50 AWS accounts. You think Service Control Policies are protecting them all. They're not.
 
-They don't.
+Most cloud architects assume SCPs inherit automatically from root → OU → account. They don't. And this single assumption costs enterprises £15k-50k monthly in governance overhead.
 
-Without explicit SCP attachment at each organisational level, you create an inheritance gap that quietly costs enterprises 15,000-50,000 pounds monthly in governance overhead, over-provisioned permissions, and manual security reviews.
+Your security team spends 40+ hours monthly debugging permission errors. Your developers get blocked by "implicit deny" messages they can't explain. Your compliance audits fail because permissions boundaries aren't where you think they are.
 
-**Here's what's actually happening:**
+This is the SCP inheritance gap the most expensive configuration mistake in multi-account AWS setups. Netflix manages 1,000+ accounts without this problem. **Here's what's actually happening:**
 
 When FullAWSAccess isn't explicitly attached at the Root → OU → Account level, SCPs use intersection-based evaluation. This means:
 
@@ -31,8 +31,12 @@ When FullAWSAccess isn't explicitly attached at the Root → OU → Account leve
     
 * Security teams spend 40+ hours monthly debugging SCP conflicts
     
-* Compliance audits fail because permission boundaries aren't where you think they are
+* Compliance audits fail because permission boundaries aren't where you think they are.
     
+
+If you're still running a single account, \[read this first → [AWS Single Account Mistakes](https://blog.syncyourcloud.io/the-multi-account-problem-why-your-aws-infrastructure-is-probably-in-one-account-and-why-thats-costing-you?t=1769871361163)\]. If you've moved to multi-account but haven't automated management, \[start here →[why-manual-oversight-is-costing-you-millions](https://blog.syncyourcloud.io/why-manual-oversight-is-costing-you-millions)\].
+
+This guide tackles the specific governance gap that appears after both of those steps.
 
 **The Business Impact (Real Numbers)**
 
@@ -47,7 +51,7 @@ Companies with 10+ AWS accounts typically waste:
 * 40-80 engineer hours monthly debugging permission issues
     
 
-**Want to know your specific cost?** [**Calculate your multi-account governance overhead here →**](https://www.syncyourcloud.io/)
+**Want to know your specific cost?** [**Calculate your multi-account governance overhead.**](https://www.syncyourcloud.io/)
 
 Here's why it happens, how to detect it, and how to fix it permanently.
 
@@ -391,12 +395,15 @@ Already committed to multi-account? Our \[30-day implementation guide\](link to 
 
 By adopting modular SCPs, leveraging automation, and monitoring policies proactively, you can avoid common scalability issues. These best practices ensure your SaaS remains secure, compliant, and operationally efficient as it grows.
 
-Ready to take control of your multi-account environment?
+**The Complete Multi-Account Journey:**
 
-Take your learning to the next level for a strategic perspective: Explore further:[Strategic Insights](https://leesync.substack.com/)
+1. Still in single account? \[Fix the £180k blast radius problem first →[AWS Single Account Issues to prevent](https://blog.syncyourcloud.io/the-multi-account-problem-why-your-aws-infrastructure-is-probably-in-one-account-and-why-thats-costing-you) \]
+    
+2. Moved to multi-account? \[Automate management to save £400k annually → [why-manual-oversight-is-costing-you-millions](https://blog.syncyourcloud.io/why-manual-oversight-is-costing-you-millions) \]
+    
+3. Already automated? You just fixed the £200k governance gap ✓
+    
 
-Share your thoughts, what would you like to see architect next time?
-
-Keep syncing….
+\[Take our [AWS cloud assessment](https://www.syncyourcloud.io) to see where you are\]
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733656281522/e9c35164-dcd8-4fac-96bc-900b9e3134ac.png align="center")
